@@ -2,6 +2,8 @@
 
 WARNING > Password For Run Script = blackguard
 
+WARNING > Use Python3 !
+
 www.mrd3f417.ir
 
 Step 1 = Enter Password > blackguard > For Run Script And ....

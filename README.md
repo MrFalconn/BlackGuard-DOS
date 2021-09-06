@@ -10,7 +10,7 @@ Step 1 = Enter Password > blackguard > For Run Script And ....
 
 Step 2 = Enter Url Or IP 
 
-Step 3 = Checking Cloud ... & Baypass Cloudflare
+Step 3 = Checking Cloud ... & Bypass Cloudflare
 
 Step 4 = Start DOS On UDP Port - 80 
 

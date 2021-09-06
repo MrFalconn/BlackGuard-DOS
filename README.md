@@ -1,10 +1,16 @@
 # BlackGuard-DOS
 
+WARNING > Password For Run Script = blackguard
+
 www.mrd3f417.ir
 
-Step 1 = Checking Cloud ...
+Step 1 = Enter Password > blackguard > For Run Script And ....
 
-Step 2 = Start DOS On UDP Port - 80 
+Step 2 = Enter Url Or IP 
+
+Step 3 = Checking Cloud ...
+
+Step 4 = Start DOS On UDP Port - 80 
 
 Use On Server ! 
 Windows & Linux > Python 3 
